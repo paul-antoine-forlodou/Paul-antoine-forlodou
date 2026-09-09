@@ -25,5 +25,5 @@ Data Analytics, Data Science and Data Engineering roles — France or internatio
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](Paul-Antoine Forlodou - Paris, Île-de-France, France | Profil professionnel | LinkedIn)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paul-antoine-forlodou)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paforlodou@gmail.com)
