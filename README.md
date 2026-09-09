@@ -1,14 +1,17 @@
 # Paul-Antoine Forlodou
 
-Data Analyst @SNCF Gares & Connexions · Master's in Data Management, Paris School of Business
+Data Analyst @**SNCF Gares & Connexions** · Master's in Data Management, Paris School of Business
 
 Focused on data analysis, visualization and data engineering — turning raw, messy datasets into reliable, decision-ready reports.
 
 ## Stack
 
-**Core:** `Python (Pandas/Numpy)` · `SQL` · `Power BI` · `Excel`
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
 
-**Exposure:** `Microsoft Azure` · `Databricks` · `Snowflake`
+**Learning :** ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white) ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
 
 ## Recent work
 
@@ -22,4 +25,5 @@ Data Analytics, Data Science and Data Engineering roles — France or internatio
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/paul-antoine-forlodou)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](Paul-Antoine Forlodou - Paris, Île-de-France, France | Profil professionnel | LinkedIn)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:paforlodou@gmail.com)
