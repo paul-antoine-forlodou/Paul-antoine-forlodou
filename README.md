@@ -16,7 +16,7 @@ Focused on data analysis, visualization and data engineering — turning raw, me
 ## Recent work
 
 - Building Power BI reports and DAX measures on large operational datasets
-- Automating data quality checks — [Smart-Duplicate-Detector] (https://github.com/paul-antoine-forlodou/Smart-Duplicate-Detector)
+- Automating data quality checks — [Smart-Duplicate-Detector](https://github.com/paul-antoine-forlodou/Smart-Duplicate-Detector)
 - Comparing and reconciling large datasets with Python/pandas
 
 ## Open to opportunities
