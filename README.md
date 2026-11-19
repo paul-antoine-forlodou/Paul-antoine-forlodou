@@ -1,6 +1,6 @@
 # Paul-Antoine Forlodou
 
-Data Analyst - 2 years@**SNCF Gares & Connexions** · Master's in Data Management, Paris School of Business
+Data Analyst - 2 yrs@**SNCF Gares & Connexions** · Master's in Data Management, Paris School of Business
 
 Focused on data analysis, visualization and data engineering, turning raw, messy datasets into reliable, decision-ready reports.
 
