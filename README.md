@@ -1,8 +1,8 @@
 # Paul-Antoine Forlodou
 
-Data Analyst @**SNCF Gares & Connexions** · Master's in Data Management, Paris School of Business
+Data Analyst - 2 years@**SNCF Gares & Connexions** · Master's in Data Management, Paris School of Business
 
-Focused on data analysis, visualization and data engineering — turning raw, messy datasets into reliable, decision-ready reports.
+Focused on data analysis, visualization and data engineering, turning raw, messy datasets into reliable, decision-ready reports.
 
 ## Stack
 
@@ -18,12 +18,12 @@ Focused on data analysis, visualization and data engineering — turning raw, me
 ## Recent work
 
 - Building Power BI reports and DAX measures on large operational datasets
-- Automating data quality checks — [Smart-Duplicate-Detector](https://github.com/paul-antoine-forlodou/Smart-Duplicate-Detector)
+- Automating data quality checks, [Smart-Duplicate-Detector](https://github.com/paul-antoine-forlodou/Smart-Duplicate-Detector)
 - Comparing and reconciling large datasets with Python/pandas
 
 ## Open to opportunities
 
-Data Analytics, Data Science and Data Engineering roles — France or international (VIE).
+Data Analytics, Data Science and Data Engineering roles, France or international (VIE).
 
 ## Contact
 
